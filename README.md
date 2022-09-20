@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Henry Salvador</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Texas</h3>
 
 - 🌱 I’m currently learning **Web development**
 
